@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Example
+# Home Assistant Community Add-on: Portainer Agent
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
@@ -17,11 +17,7 @@
 [![Discord][discord-shield]][discord]
 [![Community Forum][forum-shield]][forum]
 
-[![Sponsor Frenck via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
 
-[![Support Frenck on Patreon][patreon-shield]][patreon]
-
-Example add-on by Community Home Assistant add-ons.
 
 ## About
 
